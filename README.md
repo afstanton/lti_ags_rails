@@ -4,11 +4,11 @@
 
 Install the gem and add to the application's Gemfile by executing:
 
-    $ bundle add lti_advantage_rails
+    $ bundle add lti_ags_rails
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
-    $ gem install lti_advantage_rails
+    $ gem install lti_ags_rails
 
 ## Usage
 
